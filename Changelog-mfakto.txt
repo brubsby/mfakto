@@ -1,3 +1,8 @@
+version 0.16
+- merge features from mfaktc 0.23
+- json results output
+- logging
+
 version 0.15 (...)
 - recognition of more, newer GPUs
 - fixed issue: kernel compilation does not work correctly if a device number
