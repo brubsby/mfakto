@@ -232,7 +232,6 @@ AMD:
 Other:
 - Intel HD Graphics 4000 and later. Currently not supported on macOS.
 - OpenCL-enabled CPUs via the '-d c' option
-- not currently supported: Nvidia devices
 
 
 * without atomics, mfakto may not correctly process multiple factors found in
